@@ -52,6 +52,11 @@
   <a href="mailto:programmer.brutt@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/ItsBrutt"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+## 🐍 Snake devouring my contribution graph
+
+<p align="center">
+  <img src="https://github.com/arnaldo-morales/arnaldo-morales/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ---
 
