@@ -55,7 +55,7 @@
 ## 🐍 Snake devouring my contribution graph
 
 <p align="center">
-  <img src="https://github.comItsBrutt/ItsBrutt/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/ItsBrutt/ItsBrutt/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 
