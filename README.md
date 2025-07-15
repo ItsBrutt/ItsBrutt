@@ -1,71 +1,59 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Arnaldo Morales | Desarrollador Web</title>
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&family=Inter:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-    body {
-      font-family: 'Inter', sans-serif;
-      background: #0f172a;
-      color: #f8fafc;
-      line-height: 1.6;
-      padding: 40px;
-    }
-    h1 {
-      font-size: 3rem;
-      color: #38bdf8;
-      margin-bottom: 10px;
-    }
-    h2 {
-      font-size: 1.5rem;
-      color: #94a3b8;
-      margin-bottom: 20px;
-    }
-    p {
-      max-width: 600px;
-      margin-bottom: 20px;
-    }
-    .button {
-      background-color: #38bdf8;
-      color: #0f172a;
-      padding: 12px 24px;
-      border-radius: 8px;
-      text-decoration: none;
-      font-weight: bold;
-      transition: background-color 0.3s;
-    }
-    .button:hover {
-      background-color: #0ea5e9;
-    }
-    footer {
-      margin-top: 40px;
-      font-size: 0.9rem;
-      color: #64748b;
-    }
-  </style>
-</head>
-<body>
-  <main>
-    <h1>👋 Hola, soy Arnaldo</h1>
-    <h2>Ingeniero Civil Informático & Desarrollador Web</h2>
-    <p>
-      Apasionado por construir soluciones digitales útiles y con propósito. Trabajo con tecnologías como HTML, CSS, JavaScript, PHP, MySQL y frameworks como Angular y Node.js. Actualmente estoy desarrollando mi portafolio y creciendo cada día como profesional consciente.
-    </p>
-    <p>
-      Creo en el poder de la constancia, la intención y el código limpio.
-    </p>
-    <a class="button" href="https://github.com/arnaldo-morales" target="_blank">Ver mi GitHub</a>
-  </main>
+<h1 align="center">Hola, soy Arnaldo Morales <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 
-  <footer>
-    Hecho con 💻, foco y conciencia. — Arnaldo Morales © 2025
-  </footer>
-</body>
-</html>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=38BDF8&size=24&center=true&vCenter=true&width=600&height=60&lines=Desarrollador+Web+Full+Stack;Ingeniero+Civil+Inform%C3%A1tico;Apasionado+por+crear+con+prop%C3%B3sito;Siempre+aprendiendo+y+creciendo">
+  </a>
+</p>
+
+---
+
+## 🧠 Sobre mí
+
+<p align="left">
+💻 Soy Ingeniero Civil Informático con foco en desarrollo web y soluciones útiles que impacten positivamente.  
+🚀 Desarrollo con tecnologías como HTML, CSS, JavaScript, PHP, MySQL, Angular, Node.js y más.  
+🧘‍♂️ Vivo una vida consciente, medito a diario y trabajo desde el equilibrio interno.  
+📚 Actualmente profundizando en backend y sistemas Linux.  
+💼 Buscando oportunidades donde pueda aportar valor real y seguir creciendo.
+</p>
+
+---
+
+## 🛠️ Lenguajes y herramientas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsBrutt&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsBrutt&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+---
+
+## 🔗 Conecta conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arnaldo-morales/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:programmer.brutt@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ItsBrutt"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+> *"Construyo con propósito, crezco con constancia."*  
+> — Arnaldo Morales
