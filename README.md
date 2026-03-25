@@ -11,7 +11,7 @@
 ## 🧠 Sobre mí
 
 <p align="left">
-💻 **Ingeniero Civil Informático** especializado en construir el motor de las aplicaciones. Mi enfoque actual es el **Stack MEAN** (MongoDB, Express, Angular, Node.js) y arquitecturas robustas con **TypeScript**.
+💻 Ingeniero Civil Informático especializado en construir el motor de las aplicaciones. Mi enfoque actual es el Stack MEAN (MongoDB, Express, Angular, Node.js) y arquitecturas robustas con TypeScript.
 
 🚀 **#CódigoDiario**: Estoy en un reto de 6 meses documentando mi evolución hacia el desarrollo Backend profesional, aplicando disciplina y constancia diaria.
 
